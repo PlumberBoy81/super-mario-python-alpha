@@ -13,13 +13,17 @@ namespace myTiles {
     //% fixedInstance jres blockIdentity=images._tile
     export const tile1 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    export const tile7 = image.ofBuffer(hex``);
-    //% fixedInstance jres blockIdentity=images._tile
     export const tile5 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile3 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile8 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile9 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile10 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile7 = image.ofBuffer(hex``);
 
     helpers._registerFactory("tilemap", function(name: string) {
         switch(helpers.stringTrim(name)) {
@@ -82,14 +86,18 @@ namespace myTiles {
             case "tile2":return tile2;
             case "tile_flag":
             case "tile1":return tile1;
-            case "tile_squid":
-            case "tile7":return tile7;
             case "tile_coin":
             case "tile5":return tile5;
             case "tile_block":
             case "tile3":return tile3;
             case "tile_pizza":
             case "tile8":return tile8;
+            case "tile_questionblock":
+            case "tile9":return tile9;
+            case "tile_Bowser":
+            case "tile10":return tile10;
+            case "tile_squid":
+            case "tile7":return tile7;
         }
         return null;
     })

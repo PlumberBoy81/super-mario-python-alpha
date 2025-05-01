@@ -335,7 +335,7 @@ function attemptJump() {
         doubleJumpSpeed = -5 * pixelsToMeters
         //  Good double jump
         if (hero.vy >= -60) {
-            doubleJumpSpeed = -100000000000000000000 * pixelsToMeters
+            doubleJumpSpeed = -4 * pixelsToMeters
             hero.startEffect(effects.trail, 500)
             scene.cameraShake(2, 250)
         }

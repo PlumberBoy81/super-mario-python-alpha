@@ -32,12 +32,6 @@
         "tilemapTile": true,
         "displayName": "tile_flag"
     },
-    "tile7": {
-        "data": "hwQQABAAAAAAAAABAAAAAAAAEAEAAAAAAAARAQAAENEAEBHdER/xEQAR3RHx8R8dEN0REfHxHx3RERER8R/xER0RERHx//8RHREREfH//xHRERER8R/xERDdERHx8R8dABHdEfHxHx0AEBHdER/xEQAAEQEAABDRAAAQAQAAAAAAAAABAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "tile_squid"
-    },
     "tile5": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBVVVUFAABQVVVVVVUFAFVFREREVFUAVVRVVVX1VQBVVFVVVfVVAFX1////X1UAX1VVVVVV9QD/X1VVVfX/APD//////w8AAPD///8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -55,6 +49,24 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "tile_pizza"
+    },
+    "tile9": {
+        "data": "hwQQABAAAADg7u7u7u7u/k5ERERERET0Tk9ERERE9PRORERERERE9E5E7k5ERET0TuTu/kRERPRO5P//RERE9E7kT0Tu5E70TuRP5O7v/vRO5O7u/0//9E5E7u5PRET0TkT0/09ERPRORERERERE9E5PRERERPT0TkRERERERPTw/////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tile_questionblock"
+    },
+    "tile10": {
+        "data": "hwQQABAAAAAAAEBEAQAAAAAABEQUAQAAAABARAQAAAAAAGBBRAEAAAAAZhFGEQAAABARYUYGAAAAEBFmRAEAAABmZmZkBgBEYGZmRmFmQURgZmZEZkFEBBBhZkZERGQGEEFmZmZmZmYRRGZmZmYWYUFkZmZmZhERAQBgZmYWEREAAAAAERFhFg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tile_Bowser"
+    },
+    "tile7": {
+        "data": "hwQQABAAAAAAAAABAAAAAAAAEAEAAAAAAAARAQAAENEAEBHdER/xEQAR3RHx8R8dEN0REfHxHx3RERER8R/xER0RERHx//8RHREREfH//xHRERER8R/xERDdERHx8R8dABHdEfHxHx0AEBHdER/xEQAAEQEAABDRAAAQAQAAAAAAAAABAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tile_squid"
     },
     "level_1": {
         "id": "level_1",
