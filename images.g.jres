@@ -9,11 +9,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "pizza"
     },
-    "image12": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBVVVUFAABQVVVVVVUFAFVFREREVFUAVVRVVVX1VQBVVFVVVfVVAFX1////X1UAX1VVVVVV9QD/X1VVVfX/APD//////w8AAPD///8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "coin"
-    },
     "image13": {
         "data": "hwQQABAAAADg7u7u7u7u/k5ERERERET0Tk9ERERE9PRORERERERE9E5E7k5ERET0TuTu/kRERPRO5P//RERE9E7kT0Tu5E70TuRP5O7v/vRO5O7u/0//9E5E7u5PRET0TkT0/09ERPRORERERERE9E5PRERERPT0TkRERERERPTw/////////w==",
         "mimeType": "image/x-mkcd-f4",
@@ -93,6 +88,11 @@
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAADdAAAAAAANAN3u7gAg0P0ALeDuACDQ/Q0igIgAIN3/DYKIiAAi//0tgoiIACLd3S2IiAgAIt3djViICAAi3t6NiIgIACLu3i0iiIgAIN7tICKIiOAA4O4gAoCI7gAAACDSAOjuAAAAAN0N4A4AAAAA3Q0AAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Mario_RunLeft0"
+    },
+    "image12": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBEREQEAABAREREREQEAETk7u7uTkQARE5ERET0RABETkRERPREAET0////T0QAT0RERERE9AD/T0RERPT/APD//////w8AAPD///8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "coin"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

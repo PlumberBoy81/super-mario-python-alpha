@@ -32,12 +32,6 @@
         "tilemapTile": true,
         "displayName": "tile_flag"
     },
-    "tile5": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBVVVUFAABQVVVVVVUFAFVFREREVFUAVVRVVVX1VQBVVFVVVfVVAFX1////X1UAX1VVVVVV9QD/X1VVVfX/APD//////w8AAPD///8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "tile_coin"
-    },
     "tile3": {
         "data": "hwQQABAAAADe3d3d3d3d/e3d3d3d3d3/3d7d3d3d/f/d7d3d3d3//93d7u7u7v//3d3u7u7u///d3e7u7u7//93d7u7u7v//3d3u7u7u///d3e7u7u7//93d7u7u7v//3d3u7u7u///d/f/////+/93//////+///f////////7/////////7w==",
         "mimeType": "image/x-mkcd-f4",
@@ -67,6 +61,12 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "tile_squid"
+    },
+    "tile5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBEREQEAABAREREREQEAETk7u7uTkQARE5ERET0RABETkRERPREAET0////T0QAT0RERERE9AD/T0RERPT/APD//////w8AAPD///8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tile_coin"
     },
     "level_1": {
         "id": "level_1",

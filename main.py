@@ -64,24 +64,9 @@ def initializeAnimations():
 def initializeCoinAnimation():
     global coinAnimation
     coinAnimation = animation.create_animation(ActionKind.Idle, 200)
-    coinAnimation.add_animation_frame(img("""
-        . . . . . . . . . . . . . . . .
-        . . . . . . . . . . . . . . . .
-        . . . . . 5 5 5 5 f f . . . . .
-        . . . . 5 5 5 5 5 5 f f . . . .
-        . . . . 5 5 4 4 5 5 f f . . . .
-        . . . 5 5 4 5 5 f 5 5 f f . . .
-        . . . 5 5 4 5 5 f 5 5 f f . . .
-        . . . 5 5 4 5 5 f 5 5 f f . . .
-        . . . 5 5 4 5 5 f 5 5 f f . . .
-        . . . 5 5 4 5 5 f 5 5 f f . . .
-        . . . 5 5 4 5 5 f 5 5 f f . . .
-        . . . 5 5 4 5 5 f 5 5 f f . . .
-        . . . 5 5 4 5 5 f 5 5 f f . . .
-        . . . . 5 5 f f 5 5 f f . . . .
-        . . . . 5 5 5 5 5 5 f f . . . .
-        . . . . . 5 5 5 5 f f . . . . .
-        """))
+    coinAnimation.add_animation_frame(assets.image("""
+            coin
+            """))
 
 def initializeHeroAnimations():
     animateRun()
@@ -202,7 +187,7 @@ def attemptJump():
         doubleJumpSpeed = -5 * pixelsToMeters
         # Good double jump
         if hero.vy >= -60:
-            doubleJumpSpeed = -4 * pixelsToMeters
+            doubleJumpSpeed = -4.25 * pixelsToMeters
             hero.start_effect(effects.trail, 500)
             scene.camera_shake(2, 250)
         hero.vy = doubleJumpSpeed
