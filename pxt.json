@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "animation": "*"
+        "animation": "*",
+        "controller": "*"
     },
     "files": [
         "main.blocks",
@@ -23,7 +24,7 @@
         "branch": "v2.0.40",
         "tag": "v2.0.40",
         "commits": "https://github.com/microsoft/pxt-arcade/commits/e365009949b9c899fc4c9914e30e362bd22a209b",
-        "target": "2.0.53",
+        "target": "2.0.56",
         "pxt": "11.3.48",
         "targetId": "arcade"
     },
@@ -39,11 +40,11 @@
         "#f8a830",
         "#f8f858",
         "#089050",
-        "#70d038",
+        "#4B0082",
         "#2868c0",
         "#10c0c8",
-        "#c868e8",
-        "#c0c0c0",
+        "#800080",
+        "#2B5293",
         "#787878",
         "#f8d898",
         "#c04800",

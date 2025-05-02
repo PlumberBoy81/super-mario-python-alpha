@@ -41,196 +41,6 @@ e 5 5 5 5 5 5 e e e . . . . . .
 e 5 5 d e e 5 e . . . . . . . . 
 e e e e . e e . . . . . . . . . 
 `;
-            case "image4":
-            case "Mario_RunLeft0":return img`
-. . . . . . 2 2 2 2 2 . . . . . 
-. . . 2 2 2 2 2 2 2 2 2 . . . . 
-. . . . . d e d d e e e . . . . 
-. . . d d d e d d d e d e . . . 
-. . d d d e d d d e e d e . . . 
-. . . e e e e d d d d e e . . . 
-. . . . d d d d d d d . . . . . 
-. . . . . . 8 8 2 2 8 8 8 8 . . 
-. d d d 8 8 8 2 2 2 8 8 8 8 d d 
-. d d 8 8 2 2 2 5 2 8 8 . d d d 
-. . e . . 2 2 2 2 2 2 2 . . d d 
-. . e e 2 2 2 2 2 2 2 2 2 . . . 
-. . e e 2 2 2 2 2 2 2 2 2 2 . . 
-. . e e 2 2 2 . . . 2 2 2 e e . 
-. . . . . . . . . . . . e e e . 
-. . . . . . . . . . . e e e . . 
-`;
-            case "image5":
-            case "Mario_RunRight0":return img`
-. . . . . 2 2 2 2 2 . . . . . . 
-. . . . 2 2 2 2 2 2 2 2 2 . . . 
-. . . . e e e d d e d . . . . . 
-. . . e d e d d d e d d d . . . 
-. . . e d e e d d d e d d d . . 
-. . . e e d d d d e e e e . . . 
-. . . . . d d d d d d d . . . . 
-. . 8 8 8 8 2 2 8 8 . . . . . . 
-d d 8 8 8 8 2 2 2 8 8 8 d d d . 
-d d d . 8 8 2 5 2 2 2 8 8 d d . 
-d d . . 2 2 2 2 2 2 2 . . e . . 
-. . . 2 2 2 2 2 2 2 2 2 e e . . 
-. . 2 2 2 2 2 2 2 2 2 2 e e . . 
-. e e 2 2 2 . . . 2 2 2 e e . . 
-. e e e . . . . . . . . . . . . 
-. . e e e . . . . . . . . . . . 
-`;
-            case "image7":
-            case "Mario_RunRight1":return img`
-. . . . . 2 2 2 2 2 . . . . . . 
-. . . . 2 2 2 2 2 2 2 2 2 . . . 
-. . . . e e e d d e d . . . . . 
-. . . e d e d d d e d d d . . . 
-. . . e d e e d d d e d d d . . 
-. . . e e d d d d e e e e . . . 
-. . . . . d d d d d d d . . . . 
-. . . . 8 8 2 8 8 8 . . . . . . 
-. . . 8 8 8 8 2 2 8 8 . . . . . 
-. . . 8 8 8 2 2 5 2 2 5 . . . . 
-. . . 8 8 8 8 2 2 2 2 2 . . . . 
-. . . 2 8 8 d d d 2 2 2 . . . . 
-. . . . 2 8 d d 2 2 2 . . . . . 
-. . . . . 2 2 2 e e e . . . . . 
-. . . . . e e e e e e e . . . . 
-. . . . . e e e e . . . . . . . 
-`;
-            case "image6":
-            case "Mario_RunLeft1":return img`
-. . . . . . 2 2 2 2 2 . . . . . 
-. . . 2 2 2 2 2 2 2 2 2 . . . . 
-. . . . . d e d d e e e . . . . 
-. . . d d d e d d d e d e . . . 
-. . d d d e d d d e e d e . . . 
-. . . e e e e d d d d e e . . . 
-. . . . d d d d d d d . . . . . 
-. . . . . . 8 8 8 2 8 8 . . . . 
-. . . . . 8 8 2 2 8 8 8 8 . . . 
-. . . . 5 2 2 5 2 2 8 8 8 . . . 
-. . . . 2 2 2 2 2 8 8 8 8 . . . 
-. . . . 2 2 2 d d d 8 8 2 . . . 
-. . . . . 2 2 2 d d 8 2 . . . . 
-. . . . . e e e 2 2 2 . . . . . 
-. . . . e e e e e e e . . . . . 
-. . . . . . . e e e e . . . . . 
-`;
-            case "image8":
-            case "Mario_RunRight2":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . 2 2 2 2 2 . . . . . 
-. . . . . 2 2 2 2 2 2 2 2 2 . . 
-. . . . . e e e d d e d . . . . 
-. . . . e d e d d d e d d d . . 
-. . . . e d e e d d d e d d d . 
-. . . . e e d d d d e e e e . . 
-. . . . . . d d d d d d d . . . 
-. . . . . 8 8 8 8 2 8 . d . . . 
-. . . . d 8 8 8 8 8 8 d d d . . 
-. . . d d 2 8 8 8 8 8 d d . . . 
-. . . e e 2 2 2 2 2 2 2 . . . . 
-. . . e 2 2 2 2 2 2 2 2 . . . . 
-. . e e 2 2 2 . 2 2 2 . . . . . 
-. . e . . . . e e e . . . . . . 
-. . . . . . . e e e e . . . . . 
-`;
-            case "image9":
-            case "Mario_RunLeft2":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . 2 2 2 2 2 . . . . . . 
-. . 2 2 2 2 2 2 2 2 2 . . . . . 
-. . . . d e d d e e e . . . . . 
-. . d d d e d d d e d e . . . . 
-. d d d e d d d e e d e . . . . 
-. . e e e e d d d d e e . . . . 
-. . . d d d d d d d . . . . . . 
-. . . d . 8 2 8 8 8 8 . . . . . 
-. . d d d 8 8 8 8 8 8 d . . . . 
-. . . d d 8 8 8 8 8 2 d d . . . 
-. . . . 2 2 2 2 2 2 2 e e . . . 
-. . . . 2 2 2 2 2 2 2 2 e . . . 
-. . . . . 2 2 2 . 2 2 2 e e . . 
-. . . . . . e e e . . . . e . . 
-. . . . . e e e e . . . . . . . 
-`;
-            case "image10":
-            case "Mario_JumpLeft":return img`
-d d d . . . . . . . . . . . . . 
-d d d . . 2 2 2 2 2 . . . . . . 
-d d 2 2 2 2 2 2 2 2 2 . . . . . 
-8 8 8 . d e d d e e e . . . . . 
-8 8 d d d e d d d e d e . . . . 
-8 d d d e d d d e e d e . . . . 
-. 8 e e e e d d d d e e . . . . 
-. . 8 d d d d d d d . . . . . . 
-. . . 8 2 8 8 8 2 8 8 8 8 8 . . 
-. . . 2 8 8 8 2 8 8 8 8 8 8 8 . 
-e . . 2 2 2 2 2 8 8 8 8 8 8 d d 
-e e 2 5 2 2 5 2 2 8 2 2 . d d d 
-e e 2 2 2 2 2 2 2 2 2 2 e . d . 
-e e 2 2 2 2 2 2 2 2 2 e e e . . 
-. . . . . 2 2 2 2 2 2 2 e e e . 
-. . . . . . . . 2 2 2 2 . . e . 
-`;
-            case "image11":
-            case "Mario_JumpRight":return img`
-. . . . . . . . . . . . . d d d 
-. . . . . . 2 2 2 2 2 . . d d d 
-. . . . . 2 2 2 2 2 2 2 2 2 d d 
-. . . . . e e e d d e d . 8 8 8 
-. . . . e d e d d d e d d d 8 8 
-. . . . e d e e d d d e d d d 8 
-. . . . e e d d d d e e e e 8 . 
-. . . . . . d d d d d d d 8 . . 
-. . 8 8 8 8 8 2 8 8 8 2 8 . . . 
-. 8 8 8 8 8 8 8 2 8 8 8 2 . . . 
-d d 8 8 8 8 8 8 2 2 2 2 2 . . e 
-d d d . 2 2 8 2 2 5 2 2 5 2 e e 
-. d . e 2 2 2 2 2 2 2 2 2 2 e e 
-. . e e e 2 2 2 2 2 2 2 2 2 e e 
-. e e e 2 2 2 2 2 2 2 . . . . . 
-. e . . 2 2 2 2 . . . . . . . . 
-`;
-            case "image2":
-            case "Mario_IdleLeft":return img`
-. . . . . . 2 2 2 2 2 . . . . . 
-. . . 2 2 2 2 2 2 2 2 2 . . . . 
-. . . . . d e d d e e e . . . . 
-. . . d d d e d d d e d e . . . 
-. . d d d e d d d e e d e . . . 
-. . . e e e e d d d d e e . . . 
-. . . . d d d d d d d . . . . . 
-. . . . . . 8 8 8 2 8 8 . . . . 
-. . . 8 8 8 2 8 8 2 8 8 8 . . . 
-. . 8 8 8 2 2 2 2 2 2 8 8 8 . . 
-. . d d 8 2 5 2 2 5 2 8 d d . . 
-. . d d d 2 2 2 2 2 2 d d d . . 
-. . d d 2 2 2 2 2 2 2 2 d d . . 
-. . . . 2 2 2 . . 2 2 2 . . . . 
-. . . e e e . . . . e e e . . . 
-. . e e e e . . . . e e e e . . 
-`;
-            case "image3":
-            case "Mario_IdleRight":return img`
-. . . . . 2 2 2 2 2 . . . . . . 
-. . . . 2 2 2 2 2 2 2 2 2 . . . 
-. . . . e e e d d e d . . . . . 
-. . . e d e d d d e d d d . . . 
-. . . e d e e d d d e d d d . . 
-. . . e e d d d d e e e e . . . 
-. . . . . d d d d d d d . . . . 
-. . . . 8 8 2 8 8 8 . . . . . . 
-. . . 8 8 8 2 8 8 2 8 8 8 . . . 
-. . 8 8 8 2 2 2 2 2 2 8 8 8 . . 
-. . d d 8 2 5 2 2 5 2 8 d d . . 
-. . d d d 2 2 2 2 2 2 d d d . . 
-. . d d 2 2 2 2 2 2 2 2 d d . . 
-. . . . 2 2 2 . . 2 2 2 . . . . 
-. . . e e e . . . . e e e . . . 
-. . e e e e . . . . e e e e . . 
-`;
             case "image12":
             case "coin":return img`
 . . . . . . . . . . . . . . . . 
@@ -357,6 +167,240 @@ d111d111111d111d
 ................
 ................
 ................
+`;
+            case "image15":
+            case "Luigi_IdleRight":return img`
+......6666......
+.....66666......
+....666666666...
+....eeeddfd.....
+...ededddfddd...
+...edeedddfddd..
+...eeddddffff...
+......dddddd....
+......dddd......
+....66b666......
+...666b66b666...
+..6666bbbb6666..
+..dd6b5bb5b6dd..
+..dddbbbbbbddd..
+..dd.bbbbbb.dd..
+....bbb..bbb....
+....bbb..bbb....
+...eee....eee...
+..eeee....eeee..
+`;
+            case "image3":
+            case "Mario_IdleRight":return img`
+. . . . . 2 2 2 2 2 . . . . . . 
+. . . . 2 2 2 2 2 2 2 2 2 . . . 
+. . . . e e e d d f d . . . . . 
+. . . e d e d d d f d d d . . . 
+. . . e d e e d d d f d d d . . 
+. . . e e d d d d f f f f . . . 
+. . . . . d d d d d d d . . . . 
+. . . . 2 2 8 2 2 2 . . . . . . 
+. . . 2 2 2 8 2 2 8 2 2 2 . . . 
+. . 2 2 2 2 8 8 8 8 2 2 2 2 . . 
+. . d d 2 8 5 8 8 5 8 2 d d . . 
+. . d d d 8 8 8 8 8 8 d d d . . 
+. . d d 8 8 8 8 8 8 8 8 d d . . 
+. . . . 8 8 8 . . 8 8 8 . . . . 
+. . . e e e . . . . e e e . . . 
+. . e e e e . . . . e e e e . . 
+`;
+            case "image16":
+            case "Luigi_IdleLeft":return img`
+......6666......
+......66666.....
+...666666666....
+.....dfddeee....
+...dddfdddede...
+..dddfdddeede...
+...ffffddddee...
+....dddddd......
+......dddd......
+......666b66....
+...666b66b666...
+..6666bbbb6666..
+..dd6b5bb5b6dd..
+..dddbbbbbbddd..
+..dd.bbbbbb.dd..
+....bbb..bbb....
+....bbb..bbb....
+...eee....eee...
+..eeee....eeee..
+`;
+            case "image2":
+            case "Mario_IdleLeft":return img`
+. . . . . . 2 2 2 2 2 . . . . . 
+. . . 2 2 2 2 2 2 2 2 2 . . . . 
+. . . . . d f d d e e e . . . . 
+. . . d d d f d d d e d e . . . 
+. . d d d f d d d e e d e . . . 
+. . . f f f f d d d d e e . . . 
+. . . . d d d d d d d . . . . . 
+. . . . . . 2 2 2 8 2 2 . . . . 
+. . . 2 2 2 8 2 2 8 2 2 2 . . . 
+. . 2 2 2 2 8 8 8 8 2 2 2 2 . . 
+. . d d 2 8 5 8 8 5 8 2 d d . . 
+. . d d d 8 8 8 8 8 8 d d d . . 
+. . d d 8 8 8 8 8 8 8 8 d d . . 
+. . . . 8 8 8 . . 8 8 8 . . . . 
+. . . e e e . . . . e e e . . . 
+. . e e e e . . . . e e e e . . 
+`;
+            case "image11":
+            case "Mario_JumpRight":return img`
+. . . . . . . . . . . . . d d d 
+. . . . . . 2 2 2 2 2 . . d d d 
+. . . . . 2 2 2 2 2 2 2 2 2 d d 
+. . . . . e e e d d f d . 2 2 2 
+. . . . e d e d d d f d d d 2 2 
+. . . . e d e e d d d f d d d 2 
+. . . . e e d d d d f f f f 2 . 
+. . . . . . d d d d d d d 2 . . 
+. . 2 2 2 2 2 8 2 2 2 8 2 . . . 
+. 2 2 2 2 2 2 2 8 2 2 2 8 . . . 
+d d 2 2 2 2 2 2 8 8 8 8 8 . . e 
+d d d . 8 8 2 8 8 5 8 8 5 8 e e 
+. d . e 8 8 8 8 8 8 8 8 8 8 e e 
+. . e e e 8 8 8 8 8 8 8 8 8 e e 
+. e e e 8 8 8 8 8 8 8 . . . . . 
+. e . . 8 8 8 8 . . . . . . . . 
+`;
+            case "image10":
+            case "Mario_JumpLeft":return img`
+d d d . . . . . . . . . . . . . 
+d d d . . 2 2 2 2 2 . . . . . . 
+d d 2 2 2 2 2 2 2 2 2 . . . . . 
+2 2 2 . d f d d e e e . . . . . 
+2 2 d d d f d d d e d e . . . . 
+2 d d d f d d d e e d e . . . . 
+. 2 f f f f d d d d e e . . . . 
+. . 2 d d d d d d d . . . . . . 
+. . . 2 8 2 2 2 8 2 2 2 2 2 . . 
+. . . 8 2 2 2 8 2 2 2 2 2 2 2 . 
+e . . 8 8 8 8 8 2 2 2 2 2 2 d d 
+e e 8 5 8 8 5 8 8 2 8 8 . d d d 
+e e 8 8 8 8 8 8 8 8 8 8 e . d . 
+e e 8 8 8 8 8 8 8 8 8 e e e . . 
+. . . . . 8 8 8 8 8 8 8 e e e . 
+. . . . . . . . 8 8 8 8 . . e . 
+`;
+            case "image8":
+            case "Mario_RunRight2":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . 2 2 2 2 2 . . . . . 
+. . . . . 2 2 2 2 2 2 2 2 2 . . 
+. . . . . e e e d d f d . . . . 
+. . . . e d e d d d f d d d . . 
+. . . . e d e e d d d f d d d . 
+. . . . e e d d d d f f f f . . 
+. . . . . . d d d d d d d . . . 
+. . . . . 2 2 2 2 8 2 . d . . . 
+. . . . d 2 2 2 2 2 2 d d d . . 
+. . . d d 8 2 2 2 2 2 d d . . . 
+. . . e e 8 8 8 8 8 8 8 . . . . 
+. . . e 8 8 8 8 8 8 8 8 . . . . 
+. . e e 8 8 8 . 8 8 8 . . . . . 
+. . e . . . . e e e . . . . . . 
+. . . . . . . e e e e . . . . . 
+`;
+            case "image9":
+            case "Mario_RunLeft2":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . 2 2 2 2 2 . . . . . . 
+. . 2 2 2 2 2 2 2 2 2 . . . . . 
+. . . . d f d d e e e . . . . . 
+. . d d d f d d d e d e . . . . 
+. d d d f d d d e e d e . . . . 
+. . f f f f d d d d e e . . . . 
+. . . d d d d d d d . . . . . . 
+. . . d . 2 8 2 2 2 2 . . . . . 
+. . d d d 2 2 2 2 2 2 d . . . . 
+. . . d d 2 2 2 2 2 8 d d . . . 
+. . . . 8 8 8 8 8 8 8 e e . . . 
+. . . . 8 8 8 8 8 8 8 8 e . . . 
+. . . . . 8 8 8 . 8 8 8 e e . . 
+. . . . . . e e e . . . . e . . 
+. . . . . e e e e . . . . . . . 
+`;
+            case "image7":
+            case "Mario_RunRight1":return img`
+. . . . . 2 2 2 2 2 . . . . . . 
+. . . . 2 2 2 2 2 2 2 2 2 . . . 
+. . . . e e e d d f d . . . . . 
+. . . e d e d d d f d d d . . . 
+. . . e d e e d d d f d d d . . 
+. . . e e d d d d f f f f . . . 
+. . . . . d d d d d d d . . . . 
+. . . . 2 2 8 2 2 2 . . . . . . 
+. . . 2 2 2 2 8 8 2 2 . . . . . 
+. . . 2 2 2 8 8 5 8 8 5 . . . . 
+. . . 2 2 2 2 8 8 8 8 8 . . . . 
+. . . 8 2 2 d d d 8 8 8 . . . . 
+. . . . 8 2 d d 8 8 8 . . . . . 
+. . . . . 8 8 8 e e e . . . . . 
+. . . . . e e e e e e e . . . . 
+. . . . . e e e e . . . . . . . 
+`;
+            case "image6":
+            case "Mario_RunLeft1":return img`
+. . . . . . 2 2 2 2 2 . . . . . 
+. . . 2 2 2 2 2 2 2 2 2 . . . . 
+. . . . . d f d d e e e . . . . 
+. . . d d d f d d d e d e . . . 
+. . d d d f d d d e e d e . . . 
+. . . f f f f d d d d e e . . . 
+. . . . d d d d d d d . . . . . 
+. . . . . . 2 2 2 8 2 2 . . . . 
+. . . . . 2 2 8 8 2 2 2 2 . . . 
+. . . . 5 8 8 5 8 8 2 2 2 . . . 
+. . . . 8 8 8 8 8 2 2 2 2 . . . 
+. . . . 8 8 8 d d d 2 2 8 . . . 
+. . . . . 8 8 8 d d 2 8 . . . . 
+. . . . . e e e 8 8 8 . . . . . 
+. . . . e e e e e e e . . . . . 
+. . . . . . . e e e e . . . . . 
+`;
+            case "image5":
+            case "Mario_RunRight0":return img`
+. . . . . 2 2 2 2 2 . . . . . . 
+. . . . 2 2 2 2 2 2 2 2 2 . . . 
+. . . . e e e d d f d . . . . . 
+. . . e d e d d d f d d d . . . 
+. . . e d e e d d d f d d d . . 
+. . . e e d d d d f f f f . . . 
+. . . . . d d d d d d d . . . . 
+. . 2 2 2 2 8 8 2 2 . . . . . . 
+d d 2 2 2 2 8 8 8 2 2 2 d d d . 
+d d d . 2 2 8 5 8 8 8 2 2 d d . 
+d d . . 8 8 8 8 8 8 8 . . e . . 
+. . . 8 8 8 8 8 8 8 8 8 e e . . 
+. . 8 8 8 8 8 8 8 8 8 8 e e . . 
+. e e 8 8 8 . . . 8 8 8 e e . . 
+. e e e . . . . . . . . . . . . 
+. . e e e . . . . . . . . . . . 
+`;
+            case "image4":
+            case "Mario_RunLeft0":return img`
+. . . . . . 2 2 2 2 2 . . . . . 
+. . . 2 2 2 2 2 2 2 2 2 . . . . 
+. . . . . d f d d e e e . . . . 
+. . . d d d f d d d e d e . . . 
+. . d d d f d d d e e d e . . . 
+. . . f f f f d d d d e e . . . 
+. . . . d d d d d d d . . . . . 
+. . . . . . 2 2 8 8 2 2 2 2 . . 
+. d d d 2 2 2 8 8 8 2 2 2 2 d d 
+. d d 2 2 8 8 8 5 8 2 2 . d d d 
+. . e . . 8 8 8 8 8 8 8 . . d d 
+. . e e 8 8 8 8 8 8 8 8 8 . . . 
+. . e e 8 8 8 8 8 8 8 8 8 8 . . 
+. . e e 8 8 8 . . . 8 8 8 e e . 
+. . . . . . . . . . . . e e e . 
+. . . . . . . . . . . e e e . . 
 `;
         }
         return null;
