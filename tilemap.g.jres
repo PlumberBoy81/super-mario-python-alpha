@@ -68,6 +68,24 @@
         "tilemapTile": true,
         "displayName": "tile_coin"
     },
+    "tile11": {
+        "data": "hwQQABAAAAAAAAAgIgIAAAAAICIiIgAAAAAiESEiAAAAIBIRESIAAAAiEhERIt0NICISERHS3d0iIiIRIdL/3SIiIiIi0t3dIhEiIiLS3d0SESEiItL/3RARISIi0t3dABEhIiIi3Q0AECISISIAAAAAIhIRIgAAAAAgIhEiAAAAAAAgIgIAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tile_supermushroom"
+    },
+    "tile12": {
+        "data": "hwQQABAAAAAAAABgZgYAAAAAYGZmZgAAAABmEWFmAAAAYBYREWYAAABmFhERZt0NYGYWERHW3d1mZmYRYdb/3WZmZmZm1t3dZhFmZmbW3d0WEWFmZtb/3RARYWZm1t3dABFhZmZm3Q0AEGYWYWYAAAAAZhYRZgAAAABgZhFmAAAAAABgZgYAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tile_1upmushroom"
+    },
+    "tile13": {
+        "data": "hwQQABAAAAAAIAIAYAAAAAAiIgBgZgAAIFIlAmBmZgAgUiUCAGZmBiJVVSIAYGYGIhVRIgAAZgYi9V8iAAAAZiIVUSJmZmZmIhVRImZmZmYi9V8iAAAAZiIVUSIAAGYGIlVVIgBmZgYgUiUCYGZmBiBSJQJgZmYAACIiAGBmAAAAIAIAYAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tile_fireflower"
+    },
     "level_1": {
         "id": "level_1",
         "mimeType": "application/mkcd-tilemap",
