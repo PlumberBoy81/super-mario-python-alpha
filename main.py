@@ -184,7 +184,7 @@ def attemptJump():
     if hero.is_hitting_tile(CollisionDirection.BOTTOM):
         hero.vy = -4 * pixelsToMeters
     elif canDoubleJump:
-        doubleJumpSpeed = -5 * pixelsToMeters
+        doubleJumpSpeed = -4.12 * pixelsToMeters
         # Good double jump
         if hero.vy >= -60:
             doubleJumpSpeed = -4.12 * pixelsToMeters

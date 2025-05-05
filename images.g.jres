@@ -94,6 +94,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "coin"
     },
+    "image17": {
+        "data": "hwQQACAAAAAAAAAAAAAAACAiEQAAAADuAAAAAAAAACAiIhERgIgA7gAAAAAAAAAiIiIREYiI7u4AAAAAAAAgIiIiEYGIiO7uAAAAAAAAIiKIiIiIiIju7gAAAAAAAIiIiFiIiIiI7u4AAAAAAAAiIiKIiIiIAAAAAAAAAAAAIiIiiIiICAAAAAAAAAAAACIiIoiIiAgAAAAAAAAAAAAiIiKIiIiIAAAAAAAAAAAAiIiIWIiIiIju7gAAAAAAACIiiIiIiIiI7u4AAAAAAAAgIiIiEYGIiO7uAAAAAAAAACIiIhERiIju7gAAAAAAAAAgIiIREYCIAO4AAAAAAAAAACAiEQAAAADu",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SuperMario_IdleRight"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
