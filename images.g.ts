@@ -439,43 +439,6 @@ dddbbbbbbbbbbddd
 eeeeee....eeeeee
 eeeeee....eeeeee
 `;
-            case "image19":
-            case "SuperLuigi_IdleRight":return img`
-......66666.....
-....6666666.....
-...66666666.....
-...66666666666..
-...eeeddfddd....
-..eddeddffdddd..
-..eddeedddddddd.
-.eeddeedddfdddd.
-.eedddddffffff..
-.eeedddddffff...
-...eeddddddd....
-....edddddd.....
-....edddddd.....
-....6b6666b6....
-...66b6666b66...
-..666b6666b666..
-..666b6666b666..
-.6666b6666b6666.
-.666bb6666bb666.
-6666bbbbbbbb6666
-6666b5bbbb5b6666
-6666bbbbbbbb6666
-ddddbbbbbbbbdddd
-ddddbbbbbbbbdddd
-dddbbbbbbbbbbddd
-.ddbbbbbbbbbbdd.
-..bbbbbbbbbbbb..
-.bbbbbb..bbbbbb.
-.bbbbb....bbbbb.
-.bbbbb....bbbbb.
-..eeee....eeee..
-..eeee....eeee..
-eeeeee....eeeeee
-eeeeee....eeeeee
-`;
             case "image17":
             case "SuperMario_IdleRight":return img`
 ......22222.....
@@ -1092,24 +1055,64 @@ eeeeee....eeeeee
 .................114411141114444
 ................1114444444......
 `;
+            case "image19":
+            case "Wario_IdleRight":return img`
+.......5555.......
+.....5555555......
+...555555555......
+...55555555555....
+...edeedddfd......
+..eeddeeddf333....
+..eeedeeddd3333...
+...eeedddffff33...
+....eeddddddd.....
+...555a55555......
+..5555a5555a555...
+..5555aaaaaa5555..
+.5555a1aaaa1a5555.
+.dddaaaaaaaaaaddd.
+.ddddaaaaaaaadddd.
+.dddaaaaaaaaaaddd.
+...aaaaa..aaaaa...
+...6666....6666...
+..66666....66666..
+`;
             case "image39":
-            case "goldflower":return img`
-. . . . 5 5 5 5 5 5 5 5 . . . . 
-. . 5 5 5 5 5 5 5 5 5 5 5 5 . . 
-. 5 5 5 4 4 4 4 4 4 4 4 5 5 5 . 
-5 5 4 4 4 5 f 5 5 f 5 4 4 4 5 5 
-5 5 4 4 4 5 f 5 5 f 5 4 4 4 5 5 
-. 5 5 5 4 4 4 4 4 4 4 4 5 5 5 . 
-. . 5 5 5 5 5 5 5 5 5 5 5 5 . . 
-. . . . 5 5 5 5 5 5 5 5 . . . . 
-. . . . . . . 4 4 . . . . . . . 
-4 4 4 . . . . 4 4 . . . 4 4 4 4 
-. 4 4 4 . . . 4 4 . . 4 4 4 4 . 
-. 4 4 4 4 . . 4 4 . . 4 4 4 4 . 
-. . 4 4 4 4 . 4 4 . 4 4 4 4 . . 
-. . 4 4 4 4 . 4 4 . 4 4 4 4 . . 
-. . . 4 4 4 4 4 4 4 4 4 4 . . . 
-. . . . . . 4 4 4 4 . . . . . . 
+            case "SuperLuigi_IdleRight":return img`
+......66666.....
+....6666666.....
+...66666666.....
+...66666666666..
+...eeeddfddd....
+..eddeddffdddd..
+..eddeedddddddd.
+.eeddeedddfdddd.
+.eedddddffffff..
+.eeedddddffff...
+...eeddddddd....
+....edddddd.....
+....edddddd.....
+....6b6666b6....
+...66b6666b66...
+..666b6666b666..
+..666b6666b666..
+.6666b6666b6666.
+.666bb6666bb666.
+6666bbbbbbbb6666
+6666b5bbbb5b6666
+6666bbbbbbbb6666
+ddddbbbbbbbbdddd
+ddddbbbbbbbbdddd
+dddbbbbbbbbbbddd
+.ddbbbbbbbbbbdd.
+..bbbbbbbbbbbb..
+.bbbbbb..bbbbbb.
+.bbbbb....bbbbb.
+.bbbbb....bbbbb.
+..eeee....eeee..
+..eeee....eeee..
+eeeeee....eeeeee
+eeeeee....eeeeee
 `;
         }
         return null;
