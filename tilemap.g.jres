@@ -50,12 +50,6 @@
         "tilemapTile": true,
         "displayName": "tile_questionblock"
     },
-    "tile10": {
-        "data": "hwQQABAAAAAAAEBEAQAAAAAABEQUAQAAAABARAQAAAAAAGBBRAEAAAAAZhFGEQAAABARYUYGAAAAEBFmRAEAAABmZmZkBgBEYGZmRmFmQURgZmZEZkFEBBBhZkZERGQGEEFmZmZmZmYRRGZmZmYWYUFkZmZmZhERAQBgZmYWEREAAAAAERFhFg==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "tile_Bowser"
-    },
     "tile7": {
         "data": "hwQQABAAAAAAAAABAAAAAAAAEAEAAAAAAAARAQAAENEAEBHdER/xEQAR3RHx8R8dEN0REfHxHx3RERER8R/xER0RERHx//8RHREREfH//xHRERER8R/xERDdERHx8R8dABHdEfHxHx0AEBHdER/xEQAAEQEAABDRAAAQAQAAAAAAAAABAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -85,6 +79,30 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "tile_fireflower"
+    },
+    "tile14": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAUAUAAAAAAABQVQAAAFUAAFBVBVBVVQAAUFVVVVUFAABVVVVVVQAAVVX/X1VVAFVVVVVVVQUAVVVVVVVVBQAAVVX/X1VVAAAAVVVVVVUAAABQVVVVVQUAAFBVBVBVVQAAUFUAAABVAABQBQAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tile_superstar"
+    },
+    "tile15": {
+        "data": "hwQQABAAAAAAgAgAYAAAAACIiABgZgAAgJiJCGBmZgCAmIkIAGZmBoiZmYgAYGYGiBmRiAAAZgaI+Z+IAAAAZogZkYhmZmZmiBmRiGZmZmaI+Z+IAAAAZogZkYgAAGYGiJmZiABmZgaAmIkIYGZmBoCYiQhgZmYAAIiIAGBmAAAAgAgAYAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tile_iceflower"
+    },
+    "tile16": {
+        "data": "hwQQABAAAAAAEAEAYAAAAAAREQBgZgAAEKEaAWBmZgAQoRoBAGZmBhGqqhEAYGYGETqjEQAAZgYR+q8RAAAAZhE6oxFmZmZmETqjEWZmZmYR+q8RAAAAZhE6oxEAAGYGEaqqEQBmZgYQoRoBYGZmBhChGgFgZmYAABERAGBmAAAAEAEAYAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tile_bubbleflower"
+    },
+    "tile10": {
+        "data": "hwQQABAAAAAAAEBEAQAAAAAABEQUAQAAAABARAQAAAAAAPBBRAEAAAAA/xFGEQAAABARYUYGAAAAEBFmRAEAAABmZmZkBgBEYGZmRmFmQURgZmZEZkFEBBBhZkZERGQGEEFmZmZmZmYRRGZmZmYWYUFkZmZmZhERAQBgZmYWEREAAAAAERFhFg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tile_Bowser"
     },
     "level_1": {
         "id": "level_1",
