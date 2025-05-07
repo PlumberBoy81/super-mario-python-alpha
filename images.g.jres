@@ -209,6 +209,21 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "SuperLuigi_IdleRight"
     },
+    "image40": {
+        "data": "hwQSABMAAAAAAAAAAAAAAAAAAAAAAAAAAADV3QAAAAAAAAAAAFDV3QAGAAAAAAAzAFXV3WoGAAAAUDAzAFWlrWoGAAAAUDDzDVWqqmoGAABQVT3zXaqhqmoGAABVVf/9XaWqqgoAAABVVd39XaWqqgAAAABVVd3dXaWqqgAAAABVVe3eXaWqqgoAAABQVe7eraqhqmoGAABQVd7tXlWqqmoGAAAAVd3uXlWlrWoGAAAAVe7uUFXV3WoGAAAAAOAOAFXV3QAGAAAAAAAAAADV3QAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Wario_IdleLeft"
+    },
+    "image41": {
+        "data": "hwQSABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACg2t0AAEAAoKoAAACq2t0AAEQAqt3uAKCqqg0Ad0QAqtrtDqqqAHd3d0Sgqurerqp3d3d3d0SqqtrefXd1d3d3AACqqt3drXp3d3cAAACqqt3frXp3d3cAAACqqv/93Xd1d3d3AACgqt3/3a13d3d3d0QAoDDzAKqqAHd3d0QAADDzAKCqqg0Ad0QAAAAzAACq2t0AAEQAAAAAAACg2t0AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Waluigi_IdleRight"
+    },
+    "image42": {
+        "data": "hwQSABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACg2t0AAEAAAAAzAACq2t0AAEQAADDzAKCqqg0Ad0QAoDDzAKqqAHd3d0Sgqt3/3a13d3d3d0Sqqv/93Xd1d3d3AACqqt3frXp3d3cAAACqqt3drXp3d3cAAACqqtrefXd1d3d3AACgqurerqp3d3d3d0QAqtrtDqqqAHd3d0QAqt3uAKCqqg0Ad0QAoKoAAACq2t0AAEQAAAAAAACg2t0AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Waluigi_IdleLeft"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
